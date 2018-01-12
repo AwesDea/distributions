@@ -1,6 +1,6 @@
-# Project Title
+[![Build Status](https://travis-ci.org/rstudio/leaflet.svg?branch=master)](https://travis-ci.org/rstudio/leaflet)
 
-Random Variable Distrubiotions for R
+# Random Variable Distrubiotions for R
 
 ## Description
 
